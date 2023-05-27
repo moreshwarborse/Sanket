@@ -1,3 +1,4 @@
+//Write a C program to enter two numbers and perform all arithmetic operations.(+,-,/,*.%) 
 #include <iostream>
 using namespace std;
 int main()
