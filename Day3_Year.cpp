@@ -10,8 +10,7 @@ int main(){
   week=remain/7;
   day=remain%7;
   
-cout<<"\nYears: "<<year;
- cout<<"\nWeek: "<<week;
+  cout<<"\nYears: "<<year;
+  cout<<"\nWeek: "<<week;
   cout<<"\nDays: "<<day;
-  
-  
+}
